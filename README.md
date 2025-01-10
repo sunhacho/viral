@@ -18,7 +18,7 @@
 
 
 ## 프레임워크
-<img width="700" alt="image" src="https://github.com/user-attachments/assets/c43b7ead-bdfc-47a4-ab8f-7ff54cb6d739" />
+<img width="3000" alt="image" src="https://github.com/user-attachments/assets/c43b7ead-bdfc-47a4-ab8f-7ff54cb6d739" />
 
 
 ## 데이터 수집
